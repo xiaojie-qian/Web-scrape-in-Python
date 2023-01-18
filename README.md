@@ -8,5 +8,6 @@ A collection of scraping and spidering Web page with Python
 2. Web scraping in Python (Datacamp) 
 - HTML and CSS
 - Selector.xpath and Selector.css
+- Use spider to crawl
 - Class defincation 
-- Build your own Spider
+- format method
